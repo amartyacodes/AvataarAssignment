@@ -1,5 +1,6 @@
 # Assignment for ML Engineer Position at Avataar 
 Name: Amartya Bhattacharya
+
 Current Position: Research Fellow at Indian Institute of Science(IISc), Bangalore
 
 ## Generation of Coherent Panorama Image
@@ -15,7 +16,9 @@ python3 text_image_wo_prior.py
 **Sample Output**
 
 **Prompt**: "hdri view, a nice basement in a house in New York, in the style of <s0>TOK<s1>"
-**Output Image:** ![output_2](https://github.com/amartyacodes/AvataarAssignment/assets/44440114/4b0a7830-0a53-42e5-9973-a564564aab8a)
+**Output Image:** 
+
+![output_2](https://github.com/amartyacodes/AvataarAssignment/assets/44440114/4b0a7830-0a53-42e5-9973-a564564aab8a)
 
 But this doesn't lead to a coherent 360 degree panorama. When a renderer is used the image becomes inconsistent. For example the above image can be used in the renderer 
 https://renderstuff.com/tools/360-panorama-web-viewer/
