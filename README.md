@@ -16,6 +16,8 @@ python3 text_image_wo_prior.py
 **Sample Output**
 
 **Prompt**: "hdri view, a nice basement in a house in New York, in the style of <s0>TOK<s1>"
+
+
 **Output Image:** 
 
 ![output_2](https://github.com/amartyacodes/AvataarAssignment/assets/44440114/4b0a7830-0a53-42e5-9973-a564564aab8a)
@@ -33,6 +35,10 @@ python3 text_image_w_prior.py
 **Sample Output**
 
 **Prompt**: "hdri view, a nice basement in a house in New York, in the style of <s0>TOK<s1>"
+
+
+** Output Image:**
+
 ![output_2 (1)](https://github.com/amartyacodes/AvataarAssignment/assets/44440114/1400e81b-7363-4d28-b2fb-dd5cfaa79659)
 
 
