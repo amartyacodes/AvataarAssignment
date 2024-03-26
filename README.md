@@ -9,4 +9,5 @@ The task involves using a text prompt to generate a coherent 360 degree panorama
 ### Part 1: Generation of 360 degree Panorama Image
 
 Here a text to image, diffusion-based panorama generation model has been used. The code to get the output is given below
-
+```python
+python3 
