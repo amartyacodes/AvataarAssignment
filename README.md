@@ -13,3 +13,6 @@ Here a text to image, diffusion-based panorama generation model has been used. T
 python3 text_image_wo_prior.py
 ```
 **Sample Output**
+
+Prompt is: ""
+![output_2](https://github.com/amartyacodes/AvataarAssignment/assets/44440114/4b0a7830-0a53-42e5-9973-a564564aab8a)
