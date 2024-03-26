@@ -33,4 +33,4 @@ python3 text_image_w_prior.py
 ![output_2 (1)](https://github.com/amartyacodes/AvataarAssignment/assets/44440114/1400e81b-7363-4d28-b2fb-dd5cfaa79659)
 
 
-The five outputs by implementing with and without prior text to image diffusion models has been given in their respective folders 
+The five outputs by implementing with and without prior text to image diffusion models has been given in their respective folders named ~with_text_prior" and "without_text_prior"
