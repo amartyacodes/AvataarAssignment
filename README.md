@@ -1,4 +1,4 @@
-# Assignment for ML Engineer Position at Avataar 
+# Scene Generation using Image Generation techniques
 Name: Amartya Bhattacharya
 
 Current Position: Research Fellow at Indian Institute of Science(IISc), Bangalore
